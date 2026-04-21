@@ -711,4 +711,4 @@ else:
     print(f"  OVERALL: CHECK INPUTS — see diagnostic [7] above")
 print(f"{'═'*68}\n")
 
-plt.close()
+plt.show()
